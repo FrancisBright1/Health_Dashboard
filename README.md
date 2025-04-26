@@ -1,7 +1,7 @@
 # 🩺 Health Data Analysis Dashboard
 
 Welcome to the **Health Data Analysis Dashboard**!  
-This project focuses on analyzing healthcare-related data like BMI, Blood Sugar levels, and more.  
+This project focuses on analyzing healthcare-related data like BMI and Blood Sugar levels 
 Built using **Python**, **Pandas**, **Matplotlib**, **Seaborn**, and deployed with **Streamlit**.
 
 ---
@@ -29,7 +29,7 @@ Built using **Python**, **Pandas**, **Matplotlib**, **Seaborn**, and deployed wi
 
 ## ⚙️ Technologies Used
 
-- **Python 3.x**
+- **Python *
 - **Pandas**
 - **Seaborn**
 - **Matplotlib**
@@ -38,10 +38,8 @@ Built using **Python**, **Pandas**, **Matplotlib**, **Seaborn**, and deployed wi
 
 ---
 🧠 Insights
-Provides quick identification of at-risk patients.
-
+Provides quick identification of at-risk patients
 Useful for health practitioners and data analysts in the medical field.
-
 Shows data storytelling using Streamlit and visual tools.
 
 -------
