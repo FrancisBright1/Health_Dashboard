@@ -5,6 +5,11 @@ This project focuses on analyzing healthcare-related data like BMI and Blood Sug
 Built using **Python**, **Pandas**, **Matplotlib**, **Seaborn**, and deployed with **Streamlit**.
 
 ---
+##Streamlit Link
+
+https://francisbright1-health-dashboard-app-w2qfnr.streamlit.app/
+
+---
 
 ## 📊 Project Overview
 
@@ -18,18 +23,20 @@ Built using **Python**, **Pandas**, **Matplotlib**, **Seaborn**, and deployed wi
 
 ## 📂 Project Structure
 
-├── app.py # Main Streamlit Application 
+├── app.py 
 
-├── health_dataset_final.csv # Health dataset (1000 Nigerian names) 
 
-├── requirements.txt # Project dependencies
+├── health_dataset_final.csv 
+
+
+├── requirements.txt 
 
 
 ---
 
 ## ⚙️ Technologies Used
 
-- **Python *
+- **Python**
 - **Pandas**
 - **Seaborn**
 - **Matplotlib**
@@ -42,13 +49,12 @@ Provides quick identification of at-risk patients
 Useful for health practitioners and data analysts in the medical field.
 Shows data storytelling using Streamlit and visual tools.
 
--------
-🙌 Acknowledgements
-Special thanks to Nigerian-themed data inspiration and open-source Streamlit community.
 
 📬 Contact
 For any questions, feedback, or collaborations:
+
 Github-Francis Bright 
+
 X- @uniquebright01
 
 
